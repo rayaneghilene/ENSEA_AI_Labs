@@ -1,6 +1,6 @@
 # ENSEA_AI_Labs
 <img
-  src="C:\Users\user\Desktop\byro\adobe stuff\Ensea linkedin banner_210.png"
+  src="C:/Users/user/Desktop/byro/adobe stuff/Ensea linkedin banner_210.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
