@@ -1,5 +1,9 @@
 # ENSEA_AI_Labs
-
+<img
+  src="C:\Users\user\Desktop\byro\adobe stuff\Ensea linkedin banner_210.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 This repository contains the materials and code for the AI & Big Data Lab Session, a series of hands-on workshops designed to introduce participants to the fundamentals of artificial intelligence and big data. The sessions cover topics such as machine learning, deep learning, data preprocessing, data visualization, and big data processing using Apache Spark.
 
 The repository is organized into different folders, each representing a lab session. Within each folder, you'll find the relevant materials for that session, including Jupyter notebooks, data files, and other resources. Each lab session includes a set of exercises that are designed to help you apply the concepts covered in the session and build your skills in AI and big data.
