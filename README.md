@@ -5,11 +5,11 @@ This repository contains the code for a series of AI labs completed during my ti
 ## Labs
 
 - [TP1: Introduction to AI](Introduction_to_Deep_Learning_and_Neural_Style_Transfer.ipynb/)
-- [TP2: Sentiment Analysis](Sentiment_analysis/)
-- [TP3: P1, N_Gram on WikiText](N_Gram_on_WikiText/)
-- [TP3: P2, Feed Forward Neural Language Models](Feed_Forward_Neural_Language_Models/)
-- [TP4: Spotify Recommendation System](Spotify_Recommendation_System/)
-- [TP5: Graph Neural Network for Recommendation](Graph_Neural_Networks_for_Recommendation_Systems/)
+- [TP2: Sentiment Analysis](Sentiment_analysis.ipynb/)
+- [TP3: P1, N_Gram on WikiText](N_Gram_on_WikiText.ipynb/)
+- [TP3: P2, Feed Forward Neural Language Models](Feed_Forward_Neural_Language_Models.ipynb/)
+- [TP4: Spotify Recommendation System](Spotify_Recommendation_System.ipynb/)
+- [TP5: Graph Neural Network for Recommendation](Graph_Neural_Networks_for_Recommendation_Systems.ipynb/)
 
 ## TP1: Introduction to AI
 
