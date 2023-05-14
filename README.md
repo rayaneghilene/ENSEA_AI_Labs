@@ -1,9 +1,9 @@
 # ENSEA AI Labs
-## My Project
+
 ![My Project](https://github.com/rayaneghilene/ENSEA_AI_Labs/blob/283948d09f73231c4cfba91becbe4bb01973b4f4/Ensea_linkedin_banner10.png)
 
 
-
+## My Project
 This repository contains the code for a series of AI labs completed during my time at ENSEA. The labs cover a range of topics, including data preprocessing, machine learning, deep learning, and computer vision.
 
 ## Labs
