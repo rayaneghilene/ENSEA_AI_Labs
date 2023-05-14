@@ -1,8 +1,5 @@
 # ENSEA AI Labs
 # My Project
-
-Here's a picture of my project:
-
 ![My Project](https://github.com/rayaneghilene/ENSEA_AI_Labs/blob/a735ec1758f7f91896dd8c22c6d90fb37bc4a922/Ensea_linkedin_banner_110.png)
 
 
