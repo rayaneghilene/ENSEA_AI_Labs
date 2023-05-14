@@ -3,7 +3,7 @@
 
 Here's a picture of my project:
 
-![My Project]([Ensea linkedin banner_110.png](https://github.com/rayaneghilene/ENSEA_AI_Labs/blob/4d34450422b9fe77054c60b0410ea10cfdd70765/Ensea%20linkedin%20banner_110.png))
+![My Project](https://github.com/rayaneghilene/ENSEA_AI_Labs/blob/a735ec1758f7f91896dd8c22c6d90fb37bc4a922/Ensea_linkedin_banner_110.png)
 
 
 
