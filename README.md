@@ -11,33 +11,33 @@ This repository contains the code for a series of AI labs completed during my ti
 - [TP4: Spotify Recommendation System](Spotify_Recommendation_System.ipynb/)
 - [TP5: Graph Neural Network for Recommendation](Graph_Neural_Networks_for_Recommendation_Systems.ipynb/)
 
-## TP1: Introduction to AI
+### TP1: Introduction to AI
 
 This Lab is an introduction to the world of Deep Learning with the exploration of two techniques:
 
 - Training an inverting Neuron
 - Neural Style Transfer.
 
-## TP2: Sentiment Analysis
+### TP2: Sentiment Analysis
 
 Sentiment Analysis using two types of Neural Nets:
 
 - Feed Forward Networks
 - Convolutional Neural Networks
 
-## TP3: Language Models
+### TP3: Language Models
 
 Creation of a Language Model using two methods:
 
 - N-grams
 - Feed Forward Networks
 
-## TP4: Recommending a Spotify Playlist
+### TP4: Recommending a Spotify Playlist
 
 Creation of a Deep RecSys Model performing recommendation on Spotify Data.
 
 
-## TP5: Graph Neural Network for Recommendation
+### TP5: Graph Neural Network for Recommendation
 creation of a Deep Graph RecSys Model performing recommendation on MovieLens Dataset.
 
 
