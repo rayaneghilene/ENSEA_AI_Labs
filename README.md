@@ -1,4 +1,11 @@
 # ENSEA AI Labs
+# My Project
+
+Here's a picture of my project:
+
+![My Project](https://example.com/images/my-project.jpg)
+
+
 
 This repository contains the code for a series of AI labs completed during my time at ENSEA. The labs cover a range of topics, including data preprocessing, machine learning, deep learning, and computer vision.
 
