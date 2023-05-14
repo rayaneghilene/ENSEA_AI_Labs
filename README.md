@@ -3,7 +3,7 @@
 
 Here's a picture of my project:
 
-![My Project](https://example.com/images/my-project.jpg)
+![My Project](https://ibb.co/4mxgKwg)
 
 
 
