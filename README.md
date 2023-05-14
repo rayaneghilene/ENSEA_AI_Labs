@@ -1,6 +1,6 @@
 # ENSEA AI Labs
 # My Project
-![My Project](https://github.com/rayaneghilene/ENSEA_AI_Labs/blob/a735ec1758f7f91896dd8c22c6d90fb37bc4a922/Ensea_linkedin_banner_110.png)
+![My Project](https://github.com/rayaneghilene/ENSEA_AI_Labs/blob/283948d09f73231c4cfba91becbe4bb01973b4f4/Ensea_linkedin_banner10.png)
 
 
 
