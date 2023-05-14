@@ -3,7 +3,7 @@
 
 Here's a picture of my project:
 
-![My Project](Ensea linkedin banner_110.png)
+![My Project](Ensea-linkedin-banner_110.png)
 
 
 
