@@ -1,11 +1,12 @@
 # ENSEA AI Labs
 This repository contains the code for the following AI labs completed at ENSEA:
 
-- [TP1: Introduction to AI](TP1_Introduction_to_AI/)
-- [TP2: Sentiment Analysis](TP2_Sentiment_Analysis/)
-- [TP3: Language Models](TP3_Language_Models/)
-- [TP4: Recommending a Spotify Playlist](TP4_Recommending_Spotify_Playlist/)
-- [TP5: Graph Neural Network for Recommendation](TP5_Graph_Neural_Network_for_Recommendation/)
+- [TP1: Introduction to AI](Introduction_to_Deep_Learning_and_Neural_Style_Transfer/)
+- [TP2: Sentiment Analysis](Sentiment_analysis/)
+- [TP3: P1, N_Gram on WikiText](N_Gram_on_WikiText/)
+- [TP3: P2, Feed Forward Neural Language Models](Feed_Forward_Neural_Language_Models/)
+- [TP4: Spotify Recommendation System](Spotify_Recommendation_System/)
+- [TP5: Graph Neural Network for Recommendation](Graph_Neural_Networks_for_Recommendation_Systems/)
 
 ## TP1: Introduction to AI
 
